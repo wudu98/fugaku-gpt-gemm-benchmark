@@ -22,7 +22,7 @@ The interface of this project is BMM in Batched BLAS Generator (https://www.r-cc
 
 ```
  # run on Computing node
- bash ./run_benchmark.sh 
+ bash ./run_benchmark.sh [THREADS]
 ```
 
 Results in (https://docs.google.com/spreadsheets/d/1JenD_QRAMcWaumgb4V4j8zzijcSz8wgZw2MmX_3T4Sg/edit#gid=0)
