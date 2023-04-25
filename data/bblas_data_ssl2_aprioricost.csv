@@ -1,0 +1,13 @@
+blas_sgemm_batchf_aprioricost,void,sl_cblas_sgemm
+const bblas_enum_t,layout,a,const bblas_enum_t,transa,a,const bblas_enum_t,transb,a,const int,m,a,const int,n,a,const int,k,a,const float,alpha,a,const float *,a,l,const int,lda,a,const float *,b,l,const int,ldb,a,const float,beta,a,float *,c,l,const int,ldc,a
+get_cost_n3,m,n,k
+blas_my_sgemm_batchf_aprioricost,void,sl_cblas_my_sgemm
+const bblas_enum_t,layout,a,const bblas_enum_t,transa,a,const bblas_enum_t,transb,a,const int,m,a,const int,n,a,const int,k,a,const float,alpha,a,const float *,a,l,const int,lda,a,const float *,b,l,const int,ldb,a,const float,beta,a,float *,c,l,const int,ldc,a
+get_cost_n3,m,n,k
+blas_sgemm_batch_aprioricost,void,sl_cblas_sgemm
+const bblas_enum_t,layout,a,const bblas_enum_t,transa,g,const bblas_enum_t,transb,g,const int,m,g,const int,n,g,const int,k,g,const float,alpha,g,const float *,a,l,const int,lda,g,const float *,b,l,const int,ldb,g,const float,beta,g,float *,c,l,const int,ldc,g
+get_cost_n3,m,n,k
+blas_my_sgemm_batch_aprioricost,void,sl_cblas_my_sgemm
+const bblas_enum_t,layout,a,const bblas_enum_t,transa,g,const bblas_enum_t,transb,g,const int,m,g,const int,n,g,const int,k,g,const float,alpha,g,const float *,a,l,const int,lda,g,const float *,b,l,const int,ldb,g,const float,beta,g,float *,c,l,const int,ldc,g
+get_cost_n3,m,n,k
+
