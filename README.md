@@ -25,4 +25,4 @@ The interface of this project is BMM in Batched BLAS Generator (https://www.r-cc
  bash ./run_benchmark.sh 
 ```
 
-Results in (https://docs.google.com/spreadsheets/d/1JenD_QRAMcWaumgb4V4j8zzijcSz8wgZw2MmX_3T4Sg/edit#gid=0)# fugaku-gpt-gemm-benchmark
+Results in (https://docs.google.com/spreadsheets/d/1JenD_QRAMcWaumgb4V4j8zzijcSz8wgZw2MmX_3T4Sg/edit#gid=0)
